@@ -1,42 +1,39 @@
-# Dev Landing Page
+# I am GOODMAN a good man!
 
-Minimal landing page for developers.
+## Un peu d'histoire...
 
-Developers don't talk much. Their code does all the talking. So here's a minimal landing page for developers.
+<p>Après des études en graphisme publicitaire et une formation en infographie je me suis dirigé par passion suite à une opportunité vers la photographie. ce qui m’a permis de jumeler et maitriser la communication graphique et c'est different aspect! </p> 
+**Du IT et du SAV**
+<p>5 ans d'expérience en parallèle en tant que sale advisor pour Apple mon permit d'acquérir les soft skills comme le travail d'équipe, la patience, et beaucoup de pédagogie ! en constante évolution l'auto apprentissage m'ont motivé à perfaire mon parcours !</p>
+**Le monde de demain !**
+<br>
+<strong>J'ai des compétences !</strong>
+<p>je sais manipuler des appareille photos plus vieux que moi et développer des photos argentiques... je peux assurer les photos d'un événement comme un mariage une soirée ou d'un shooting studio et les sublimer dans les programmes de la suite Adobe! j'adore crée dessiner imaginer m'inspirer!</p>
 
-## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+<p>Maintenant je souhaite me concrétiser apporter mes différentes expériences et compétences de manière dynamique au monde numérique!</p>
 
-I wanted a dev landing page to showcase everything I do online and I wanted it to be minimal and right to the point rather beautiful and hefty. And I think most of the devs out there would want the same.
+### Mon compte Github contient mon parcours d'apprentissage chez Becode afin de devenir Web développeur.
 
-So I sat down one night and created this **Dev Landing Page**. Feel free to fork, clone, play around and make this your own.
+<ul>
+    <li>https://github.com/Goudmant/generateur-avatar</li>
+    <li>https://github.com/Goudmant/Site-de-vente-de-vin-BMJ</li>
+</ul>
 
-## Themes
 
-Dev Landing Page comes in 9 **material themes**.
+<p>Les languages assimilée</p>
 
-![9 Material Themes](https://image.ibb.co/jJVKCn/dev_landing_page_themes.jpg)
+<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0c3a16a22ae058cfe38a06dc9ea16404cf006409262f547c9ccfa3ec8b30f71e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/0c3a16a22ae058cfe38a06dc9ea16404cf006409262f547c9ccfa3ec8b30f71e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2435c2a64789b8a71c701a1a593b4a6e6869789bfb0626e515dc2a6b6dffa6c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333"><img src="https://camo.githubusercontent.com/2435c2a64789b8a71c701a1a593b4a6e6869789bfb0626e515dc2a6b6dffa6c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333" alt="CSS3" data-canonical-src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&amp;logo=css3" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e56d586bf373ad33a4e8c7101246d54d5edc0fb52b87d309b899ce4818bd6086/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3536334437433f7374796c653d666c61742d737175617265266c6f676f3d626f6f747374726170"><img src="https://camo.githubusercontent.com/e56d586bf373ad33a4e8c7101246d54d5edc0fb52b87d309b899ce4818bd6086/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3536334437433f7374796c653d666c61742d737175617265266c6f676f3d626f6f747374726170" alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&amp;logo=bootstrap" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2f40b5f26e05a14c7729700b8989dbe31f3e91713e4fa3ee712c42b715f302ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5048502d3437344138413f7374796c653d666c61742d737175617265266c6f676f3d706870"><img src="https://camo.githubusercontent.com/2f40b5f26e05a14c7729700b8989dbe31f3e91713e4fa3ee712c42b715f302ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5048502d3437344138413f7374796c653d666c61742d737175617265266c6f676f3d706870" alt="PHP" data-canonical-src="https://img.shields.io/badge/-PHP-474A8A?style=flat-square&amp;logo=php" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0cafe5a9accbb9fc7a0ee10787de4c4c1dec31f8d1288f3da7bdea806ceae004/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3333363739313f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c"><img src="https://camo.githubusercontent.com/0cafe5a9accbb9fc7a0ee10787de4c4c1dec31f8d1288f3da7bdea806ceae004/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3333363739313f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c" alt="MySQL" data-canonical-src="https://img.shields.io/badge/-MySQL-336791?style=flat-square&amp;logo=mysql" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f5e7b73e509348b20cb27a0250c164474e558366559eab73aee7c89f4b617171/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d576f726450726573732d3231373539623f7374796c653d666c61742d737175617265266c6f676f3d576f72645072657373"><img src="https://camo.githubusercontent.com/f5e7b73e509348b20cb27a0250c164474e558366559eab73aee7c89f4b617171/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d576f726450726573732d3231373539623f7374796c653d666c61742d737175617265266c6f676f3d576f72645072657373" alt="WordPress" data-canonical-src="https://img.shields.io/badge/-WordPress-21759b?style=flat-square&amp;logo=WordPress" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4eadd60414ca59ff6138ec822c353c3dce5965983d8187ec7c57f0bb6d6872d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6c61726176656c2d3233464632443f7374796c653d666c61742d737175617265266c6f676f3d6c61726176656c"><img src="https://camo.githubusercontent.com/4eadd60414ca59ff6138ec822c353c3dce5965983d8187ec7c57f0bb6d6872d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6c61726176656c2d3233464632443f7374796c653d666c61742d737175617265266c6f676f3d6c61726176656c" alt="Laravel" data-canonical-src="https://img.shields.io/badge/-laravel-23FF2D?style=flat-square&amp;logo=laravel" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/28c96c4e07d8df5ce6d1d6bbc892df42c354dae00543925fe04d6224409e0f27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3332333333303f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074"><img src="https://camo.githubusercontent.com/28c96c4e07d8df5ce6d1d6bbc892df42c354dae00543925fe04d6224409e0f27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3332333333303f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&amp;logo=javascript" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1ca5c0201b5727e239e78514de8c89ea7c38778cbd1e6a674485f170fff75a7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3330333033303f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73"><img src="https://camo.githubusercontent.com/1ca5c0201b5727e239e78514de8c89ea7c38778cbd1e6a674485f170fff75a7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3330333033303f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73" alt="Nodejs" data-canonical-src="https://img.shields.io/badge/-Nodejs-303030?style=flat-square&amp;logo=Node.js" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/dd40c9952272ad192bd925d2ee379707f8215f358963918bda92cdb0048a602d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61726b646f776e2d626c61636b3f267374796c653d666c61742d737175617265266c6f676f3d6d61726b646f776e"><img src="https://camo.githubusercontent.com/dd40c9952272ad192bd925d2ee379707f8215f358963918bda92cdb0048a602d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61726b646f776e2d626c61636b3f267374796c653d666c61742d737175617265266c6f676f3d6d61726b646f776e" alt="MarkDown" data-canonical-src="https://img.shields.io/badge/markdown-black?&amp;style=flat-square&amp;logo=markdown" style="max-width:100%;"></a></p>
 
-If none of these themes fit within your taste, it's quite easy to customize and create your own too. 
-
-## GitHub Pages
-
-GitHub makes it easy to create personal websites. Follow this link - [GitHub Pages](https://pages.github.com/) to know how or follow the steps below.
-
-If you already have a GitHub profile (obviously)
-
-* Create a new repo with the name `{username}.github.io`
-* Clone/Fork this repo and copy the files to your newly created repo
-* Customize your name, links and everything else for your landing page
-* `git push`
-
-Voila! Your site should be live at `https://{username}.github.io`
-
-Here's my **Dev Landing Page** - [Dinesh Pandiyan - portfolio v1](https://portfoliov1.dineshpandiyan.com)
-
-### Custom Domain
-
-If you want to make your new landing page available under a domain like `{username}.com` you can get started here - [Setting up a custom domain](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/).
-
-## License
-
-MIT © Dinesh Pandiyan
+<p>Les outils assimilée</p>
+    
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c91126a5cf35bc6214ebacb4a0761a3520d17936161aa795b7fd681e5e3991e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3345324330303f7374796c653d666c61742d737175617265266c6f676f3d676974"><img src="https://camo.githubusercontent.com/c91126a5cf35bc6214ebacb4a0761a3520d17936161aa795b7fd681e5e3991e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3345324330303f7374796c653d666c61742d737175617265266c6f676f3d676974" alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-3E2C00?style=flat-square&amp;logo=git" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562"><img src="https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&amp;logo=github" style="max-width:100%;"></a>
