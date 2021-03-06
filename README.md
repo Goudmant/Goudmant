@@ -1,16 +1,16 @@
 # I am GOODMAN a good man!
 
-## Un peu d'histoire...
+:older_man: ## Un peu d'histoire... 
 
 <p>Après des études en graphisme publicitaire et une formation en infographie je me suis dirigé par passion suite à une opportunité vers la photographie. ce qui m’a permis de jumeler et maitriser la communication graphique et c'est different aspect! </p> 
-**Du IT et du SAV**
+:computer: **Du IT et du SAV** :phone:
 <p>5 ans d'expérience en parallèle en tant que sale advisor pour Apple mon permit d'acquérir les soft skills comme le travail d'équipe, la patience, et beaucoup de pédagogie ! en constante évolution l'auto apprentissage m'ont motivé à perfaire mon parcours !</p>
-**Le monde de demain !**
+:rocket: **Le monde de demain !**
 <br>
-<strong>J'ai des compétences !</strong>
+:mega: <strong>J'ai des compétences !</strong>
 <p>je sais manipuler des appareille photos plus vieux que moi et développer des photos argentiques... je peux assurer les photos d'un événement comme un mariage une soirée ou d'un shooting studio et les sublimer dans les programmes de la suite Adobe! j'adore crée dessiner imaginer m'inspirer!</p>
 
-<p>Maintenant je souhaite me concrétiser apporter mes différentes expériences et compétences de manière dynamique au monde numérique!</p>
+:checkered_flag: <p>Maintenant je souhaite me concrétiser apporter mes différentes expériences et compétences de manière dynamique au monde numérique!</p>
 
 ### Mon compte Github contient mon parcours d'apprentissage chez Becode afin de devenir Web développeur.
 
@@ -19,7 +19,7 @@
     <li>https://github.com/Goudmant/Site-de-vente-de-vin-BMJ</li>
 </ul>
 <p>En savoir plus</p>
-<a href="https://https://www.linkedin.com/in/yvan-goudmant/" rel="nofollow"><img src="https://camo.githubusercontent.com/73bc79bba77f6c9c81a70ee82ae1d7737fa3b432c575d2d3077751ecf5af689b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d6272336e646f6e6c616e642d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-YvanGoudmant-informational?style=flat-square&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"></a>
+<a href="https://https://www.linkedin.com/in/yvan-goudmant/" rel="nofollow"><img src="" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-YvanGoudmant-informational?style=flat-square&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"></a>
 
 <p>Les languages assimilée</p>
 
@@ -48,4 +48,4 @@
 
 <p>Contatc</p>
 
-<a href="mailto:yvan-goudmant@gmail.com" title="Connectez-moi par e-mail"><img src="https://camo.githubusercontent.com/748c38a31d061acdf817187bdba7a71679756c6db3efd84697ec58e3ec88311e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d7364657939407569632e6564752d6331343433383f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="Badge Gmail" data-canonical-src="https://img.shields.io/badge/-yvangoudmant@gmail.com?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width:100%;"></a>
+<a href="mailto:yvan-goudmant@gmail.com" title="Connectez-moi par e-mail"><img src="" alt="Badge Gmail" data-canonical-src="https://img.shields.io/badge/-yvangoudmant@gmail.com?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width:100%;"></a>
