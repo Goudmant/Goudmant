@@ -1,18 +1,18 @@
-# I am GOODMAN a good man!
+<h1> I am GOODMAN a good man!</h1>
 
-:older_man: ## Un peu d'histoire... 
+:older_man: <h2>Un peu d'histoire...</h2> 
 
 <p>Après des études en graphisme publicitaire et une formation en infographie je me suis dirigé par passion suite à une opportunité vers la photographie. ce qui m’a permis de jumeler et maitriser la communication graphique et c'est different aspect! </p> 
 :computer: **Du IT et du SAV** :phone:
 <p>5 ans d'expérience en parallèle en tant que sale advisor pour Apple mon permit d'acquérir les soft skills comme le travail d'équipe, la patience, et beaucoup de pédagogie ! en constante évolution l'auto apprentissage m'ont motivé à perfaire mon parcours !</p>
-:rocket: **Le monde de demain !**
+:rocket: <strong>Le monde de demain !</strong>
 <br>
-:mega: <strong>J'ai des compétences !</strong>
+:mega: <i>J'ai des compétences !</i>
 <p>je sais manipuler des appareille photos plus vieux que moi et développer des photos argentiques... je peux assurer les photos d'un événement comme un mariage une soirée ou d'un shooting studio et les sublimer dans les programmes de la suite Adobe! j'adore crée dessiner imaginer m'inspirer!</p>
 
 :checkered_flag: <p>Maintenant je souhaite me concrétiser apporter mes différentes expériences et compétences de manière dynamique au monde numérique!</p>
 
-### Mon compte Github contient mon parcours d'apprentissage chez Becode afin de devenir Web développeur.
+<h3>Mon compte Github contient mon parcours d'apprentissage chez Becode afin de devenir Web développeur.</h3>
 
 <ul>
     <li>https://github.com/Goudmant/generateur-avatar</li>
