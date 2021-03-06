@@ -48,4 +48,4 @@
 
 <p>Contatc</p>
 
-<a href="mailto:yvan-goudmant@gmail.com" title="Connectez-moi par e-mail"><img src="https://camo.githubusercontent.com/748c38a31d061acdf817187bdba7a71679756c6db3efd84697ec58e3ec88311e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d7364657939407569632e6564752d6331343433383f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="Badge Gmail" data-canonical-src="https://img.shields.io/badge/-sdey9@uic.edu-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width:100%;"></a>
+<a href="mailto:yvan-goudmant@gmail.com" title="Connectez-moi par e-mail"><img src="https://camo.githubusercontent.com/748c38a31d061acdf817187bdba7a71679756c6db3efd84697ec58e3ec88311e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d7364657939407569632e6564752d6331343433383f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="Badge Gmail" data-canonical-src="https://img.shields.io/badge/-yvangoudmant@gmail.com?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width:100%;"></a>
