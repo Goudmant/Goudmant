@@ -49,4 +49,4 @@
 <p>Contatc</p>
 
 <img alt="Custom badge" src="https://img.shields.io/endpoint?color=%23blue&label=Linkedin&logo=linkedin&logoColor=%23f3f2ef&style=plastic&url=/www.linkedin.com%2Fin%2Fyvan-goudmant%2F">
-<img alt="Custom badge" src="https://img.shields.io/endpoint?label=Gmail&logo=gmail&style=plastic&url=/yvangoudmant%40gmail.com">
+![Custom badge](https://img.shields.io/endpoint?label=Gmail&logo=Gmail&style=for-the-badge&url=mailto%3A%3Fto%3Dyvangoudmant%40gmail.com)
