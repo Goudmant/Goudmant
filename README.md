@@ -44,13 +44,13 @@
 <p>Pour la création</p>
 
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3ecfa3f1305d9672c3f217f9aa8762697566fa213ac21b7e9e99c4dd81e49b2c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6f676f3d61646f6265266c6162656c3d266d6573736167653d61646f626526636f6c6f723d313131266c6f676f436f6c6f723d464630303030267374796c653d666c61742d737175617265"><img src="https://camo.githubusercontent.com/3ecfa3f1305d9672c3f217f9aa8762697566fa213ac21b7e9e99c4dd81e49b2c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6f676f3d61646f6265266c6162656c3d266d6573736167653d61646f626526636f6c6f723d313131266c6f676f436f6c6f723d464630303030267374796c653d666c61742d737175617265" alt="adobe" data-canonical-src="https://img.shields.io/static/v1?logo=adobe&amp;label=&amp;message=adobe&amp;color=111&amp;logoColor=FF0000&amp;style=flat-square" style="max-width:100%;"></a>
-https://aleen42.github.io/badges/src/photoshop.svg
-https://aleen42.github.io/badges/src/illustrator.svg
-https://aleen42.github.io/badges/src/after_effects.svg
+<img src="https://aleen42.github.io/badges/src/photoshop.svg>
+<img src="https://aleen42.github.io/badges/src/illustrator.svg">
+<img src="https://aleen42.github.io/badges/src/after_effects.svg">
 
 
 
 <p>Contatc</p>
 
-<p>https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white www.linkedin.com/in/yvan-goudmant </p>
-<p>https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white yvangoudmant@gmail.com</p>
+<p><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white www.linkedin.com/in/yvan-goudmant"></p>
+<p><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white yvangoudmant@gmail.com"></p>
