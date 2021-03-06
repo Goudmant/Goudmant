@@ -19,8 +19,7 @@
     <li>https://github.com/Goudmant/Site-de-vente-de-vin-BMJ</li>
 </ul>
 <p>En savoir plus</p>
-<a href="https://https://www.linkedin.com/in/yvan-goudmant/" rel="nofollow"><img src="https://camo.githubusercontent.com/73bc79bba77f6c9c81a70ee82ae1d7737fa3b432c575d2d3077751ecf5af689b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d6272336e646f6e6c616e642d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-br3ndonland-informational?style=flat-square&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"></a>
-<img src="https://camo.githubusercontent.com/73bc79bba77f6c9c81a70ee82ae1d7737fa3b432c575d2d3077751ecf5af689b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d6272336e646f6e6c616e642d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-br3ndonland-informational?style=flat-square&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;">
+<a href="https://https://www.linkedin.com/in/yvan-goudmant/" rel="nofollow"><img src="https://camo.githubusercontent.com/73bc79bba77f6c9c81a70ee82ae1d7737fa3b432c575d2d3077751ecf5af689b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d6272336e646f6e6c616e642d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-YvanGoudmant-informational?style=flat-square&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"></a>
 
 <p>Les languages assimilée</p>
 
