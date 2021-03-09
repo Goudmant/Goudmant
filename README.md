@@ -19,6 +19,11 @@
     <li>https://github.com/Goudmant/Site-de-vente-de-vin-BMJ</li>
 </ul>
 
+<h3>Ici vous trouverez mes différentes veilles technologique</h3>
+<ul>
+    <li> SVELTE - https://docs.google.com/presentation/d/e/2PACX-1vQV5mt8NF118ERPRs8YEvk8CFDvxFKEbr_3sFGi5B0ovaL60Zhc9tYqUmQ3VyIN5ulRhAVrmyJE9nb0/pub?start=false&loop=false&delayms=3000 </li>
+    <li> GitKraken - <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQkgzjjJfHyz5890gqPjn8_4BIkTh20Dx_zOCHaCrMMR7CWqBBxsi7UvYjI92c2uQgeZMapuzD8hB2v/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> </li>
+
 <p>En savoir plus</p>
 <a href="https://goudmant.github.io/Cv_yvangoudmant/">Mon CV</a>
 <p>Les languages assimilée</p>
