@@ -31,7 +31,7 @@
 
 <p>En savoir plus</p>
 <br>
-<a href="https://goudmant.github.io/Cv_yvangoudmant/">Mon CV</a>
+<p><strong>Pas encore convaincue ?<a href="https://goudmant.github.io/Cv_yvangoudmant/">Mon CV</a></strong></p>
 <br>
 <p>Les languages assimilée</p>
 
