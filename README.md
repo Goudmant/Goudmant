@@ -31,7 +31,7 @@
 
 
 <br>
-<p><strong>Pas encore convaincu ?<a href="https://goudmant.github.io/Cv_yvangoudmant/"> - Mon CV</a></strong></p>
+<p><strong>Pas encore convaincu ?<a href="https://goudmant.github.io/Cv_yvangoudmant/">&nbsp;&nbsp;Mon CV</a></strong></p>
 <br>
 <p>Les languages assimilée</p>
 
@@ -64,6 +64,6 @@
 
 <p>Contatc</p>
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a href=" www.linkedin.com/in/yvan-goudmant">Yvan goudmant</a>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a href=" www.linkedin.com/in/yvan-goudmant">&nbsp;&nbsp;Yvan goudmant</a>
 <br>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a href="yvangoudmant@gmail.com">yvangoudmant@gmail.com</a>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a href="yvangoudmant@gmail.com">&nbsp;&nbsp;yvangoudmant@gmail.com</a>
