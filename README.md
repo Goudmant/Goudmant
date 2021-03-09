@@ -21,12 +21,12 @@
 
 <h3>Ici vous trouverez mes différentes veilles technologique</h3>
 <ul>
-    <li> SVELTE - <a href="https://docs.google.com/presentation/d/e/2PACX-1vQV5mt8NF118ERPRs8YEvk8CFDvxFKEbr_3sFGi5B0ovaL60Zhc9tYqUmQ3VyIN5ulRhAVrmyJE9nb0/pub?start=false&loop=false&delayms=3000">Workshop</li>
-    <li> GitKraken - <a href="https://docs.google.com/presentation/d/e/2PACX-1vQkgzjjJfHyz5890gqPjn8_4BIkTh20Dx_zOCHaCrMMR7CWqBBxsi7UvYjI92c2uQgeZMapuzD8hB2v/pub?start=false&loop=false&delayms=3000">Un outil pour les gouverner tous</li>
-    <li> Le SEO - <a href="https://docs.google.com/presentation/d/e/2PACX-1vQrA4U9q-B5rmuTMcoi95VvY100AbQtXrC7STHU9Bkq5jzveZVTAJ30QNFIwUKQA3zf2MX4YbApt4_z/pub?start=false&loop=false&delayms=3000">Les bonnes pratique du SEO</li>
-    <li> Les Hebergeur Web - <a href="https://docs.google.com/presentation/d/e/2PACX-1vR_u_LloZly-AGOH3bBN1aNjHF47UuAdpOcoXjXrm71_8iBRugPs7yKbOBq2sm1Md_GGahMzE4LGCGj/pub?start=false&loop=false&delayms=3000">Les questions à se poser</li>
-    <li> L'importance de la couleur dans la création des sites internet - <a href="https://docs.google.com/presentation/d/e/2PACX-1vQmccKgO_diRp9abDiRrzDRA9JWVSPzN3txzlXqC_GBFSVeJKUjwWMV3wkEqUAceV2PRXJUy1hciQrs/pub?start=false&loop=false&delayms=3000">Ques donc que la couleur ?</li>
-    <li> Trouver des images gratuite et libre de droits - <a href="https://docs.google.com/presentation/d/e/2PACX-1vT4F3AfFEYOcQjcLInDlXoFszd30e2Bntt6b51Z_ATey2YM16s_KgJ4RcPkmvF8k65juRcwoBpSgqrd/pub?start=false&loop=false&delayms=3000">Pourquoi ? / Les risques</li>
+    <li> SVELTE - <a href="https://docs.google.com/presentation/d/e/2PACX-1vQV5mt8NF118ERPRs8YEvk8CFDvxFKEbr_3sFGi5B0ovaL60Zhc9tYqUmQ3VyIN5ulRhAVrmyJE9nb0/pub?start=false&loop=false&delayms=3000"></a>Workshop</li>
+    <li> GitKraken - <a href="https://docs.google.com/presentation/d/e/2PACX-1vQkgzjjJfHyz5890gqPjn8_4BIkTh20Dx_zOCHaCrMMR7CWqBBxsi7UvYjI92c2uQgeZMapuzD8hB2v/pub?start=false&loop=false&delayms=3000"></a>Un outil pour les gouverner tous</li>
+    <li> Le SEO - <a href="https://docs.google.com/presentation/d/e/2PACX-1vQrA4U9q-B5rmuTMcoi95VvY100AbQtXrC7STHU9Bkq5jzveZVTAJ30QNFIwUKQA3zf2MX4YbApt4_z/pub?start=false&loop=false&delayms=3000"></a>Les bonnes pratique du SEO</li>
+    <li> Les Hebergeur Web - <a href="https://docs.google.com/presentation/d/e/2PACX-1vR_u_LloZly-AGOH3bBN1aNjHF47UuAdpOcoXjXrm71_8iBRugPs7yKbOBq2sm1Md_GGahMzE4LGCGj/pub?start=false&loop=false&delayms=3000"></a>Les questions à se poser</li>
+    <li> L'importance de la couleur dans la création des sites internet - <a href="https://docs.google.com/presentation/d/e/2PACX-1vQmccKgO_diRp9abDiRrzDRA9JWVSPzN3txzlXqC_GBFSVeJKUjwWMV3wkEqUAceV2PRXJUy1hciQrs/pub?start=false&loop=false&delayms=3000"></a>Ques donc que la couleur ?</li>
+    <li> Trouver des images gratuite et libre de droits - <a href="https://docs.google.com/presentation/d/e/2PACX-1vT4F3AfFEYOcQjcLInDlXoFszd30e2Bntt6b51Z_ATey2YM16s_KgJ4RcPkmvF8k65juRcwoBpSgqrd/pub?start=false&loop=false&delayms=3000"></a>Pourquoi ? / Les risques</li>
 </ul>
 
 <p>En savoir plus</p>
