@@ -29,9 +29,9 @@
     <li> Trouver des images gratuite et libre de droits - <a href="https://docs.google.com/presentation/d/e/2PACX-1vT4F3AfFEYOcQjcLInDlXoFszd30e2Bntt6b51Z_ATey2YM16s_KgJ4RcPkmvF8k65juRcwoBpSgqrd/pub?start=false&loop=false&delayms=3000">Pourquoi ? / Les risques</a></li>
 </ul>
 
-<p>En savoir plus</p>
+
 <br>
-<p><strong>Pas encore convaincue ?<a href="https://goudmant.github.io/Cv_yvangoudmant/">Mon CV</a></strong></p>
+<p><strong>Pas encore convaincu ?<a href="https://goudmant.github.io/Cv_yvangoudmant/">Mon CV</a></strong></p>
 <br>
 <p>Les languages assimilée</p>
 
@@ -60,7 +60,7 @@
 <img src="https://aleen42.github.io/badges/src/illustrator.svg">
 <img src="https://aleen42.github.io/badges/src/after_effects.svg">
 
-
+<p><strong>En savoir plus</strong></p>
 
 <p>Contatc</p>
 
