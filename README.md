@@ -22,7 +22,12 @@
 <h3>Ici vous trouverez mes différentes veilles technologique</h3>
 <ul>
     <li> SVELTE - https://docs.google.com/presentation/d/e/2PACX-1vQV5mt8NF118ERPRs8YEvk8CFDvxFKEbr_3sFGi5B0ovaL60Zhc9tYqUmQ3VyIN5ulRhAVrmyJE9nb0/pub?start=false&loop=false&delayms=3000 </li>
-    <li> GitKraken - <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQkgzjjJfHyz5890gqPjn8_4BIkTh20Dx_zOCHaCrMMR7CWqBBxsi7UvYjI92c2uQgeZMapuzD8hB2v/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> </li>
+    <li> GitKraken - https://docs.google.com/presentation/d/e/2PACX-1vQkgzjjJfHyz5890gqPjn8_4BIkTh20Dx_zOCHaCrMMR7CWqBBxsi7UvYjI92c2uQgeZMapuzD8hB2v/pub?start=false&loop=false&delayms=3000 </li>
+    <li> Le SEO - https://docs.google.com/presentation/d/e/2PACX-1vQrA4U9q-B5rmuTMcoi95VvY100AbQtXrC7STHU9Bkq5jzveZVTAJ30QNFIwUKQA3zf2MX4YbApt4_z/pub?start=false&loop=false&delayms=3000 </li>
+    <li> Les Hebergeur Web - https://docs.google.com/presentation/d/e/2PACX-1vR_u_LloZly-AGOH3bBN1aNjHF47UuAdpOcoXjXrm71_8iBRugPs7yKbOBq2sm1Md_GGahMzE4LGCGj/pub?start=false&loop=false&delayms=3000 </li>
+    <li> L'importance de la couleur dans la création des sites internet - https://docs.google.com/presentation/d/e/2PACX-1vQmccKgO_diRp9abDiRrzDRA9JWVSPzN3txzlXqC_GBFSVeJKUjwWMV3wkEqUAceV2PRXJUy1hciQrs/pub?start=false&loop=false&delayms=3000 </li>
+    <li> Trouver des images gratuite et libre de droits - https://docs.google.com/presentation/d/e/2PACX-1vT4F3AfFEYOcQjcLInDlXoFszd30e2Bntt6b51Z_ATey2YM16s_KgJ4RcPkmvF8k65juRcwoBpSgqrd/pub?start=false&loop=false&delayms=3000 </li>
+</ul>
 
 <p>En savoir plus</p>
 <a href="https://goudmant.github.io/Cv_yvangoudmant/">Mon CV</a>
