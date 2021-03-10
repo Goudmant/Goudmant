@@ -2,13 +2,13 @@
 
 <h2>:older_man: Un peu d'histoire...</h2> 
 
-<p>Après des études en graphisme publicitaire et une formation en infographie je me suis dirigé par passion suite à une opportunité vers la photographie. ce qui m’a permis de jumeler et maitriser la communication graphique et c'est different aspect! </p> 
+<p>Après des études en graphisme publicitaire et une formation en infographie je me suis dirigé par passion suite à une opportunité vers la photographie. ce qui m’a permis de jumeler et maitriser la communication graphique et c'est diffèrent aspect! </p> 
 :computer: <strong>Du IT et du SAV </strong> :phone:
-<p>5 ans d'expérience en parallèle en tant que sale advisor pour Apple mon permit d'acquérir les soft skills comme le travail d'équipe, la patience, et beaucoup de pédagogie ! en constante évolution l'auto apprentissage m'ont motivé à perfaire mon parcours !</p>
+<p>5 ans d'expérience en parallèle en tant que sale advisor pour Apple mon permit d'acquérir les soft skills comme le travail d'équipe, la patience, et beaucoup de pédagogie ! en constante évolution l'auto apprentissage m'ont motivé à parfaire mon parcours !</p>
 :rocket: <strong>Le monde de demain !</strong>
 <br>
 :mega: <i>J'ai des compétences !</i>
-<p>je sais manipuler des appareille photos plus vieux que moi et développer des photos argentiques... je peux assurer les photos d'un événement comme un mariage une soirée ou d'un shooting studio et les sublimer dans les programmes de la suite Adobe! j'adore crée dessiner imaginer m'inspirer!</p>
+<p>je sais manipuler des appareille photos plus vieux que moi et développer des photos argentiques... je peux assurer les photos d'un événement comme un mariage une soirée ou d'un shooting studio et les sublimer dans les programmes de la suite Adobe! j'adore créer dessiner imaginez-m'inspirer!</p>
 
 <p>:checkered_flag: Maintenant je souhaite me concrétiser apporter mes différentes expériences et compétences de manière dynamique au monde numérique!</p>
 
@@ -19,7 +19,7 @@
     <li>https://github.com/Goudmant/Site-de-vente-de-vin-BMJ</li>
 </ul>
 
-<h3>Ici vous trouverez mes différentes veilles technologique</h3>
+<h3>Ici vous trouverez mes différentes veilles technologiques</h3>
 <ul>
     <li> SVELTE - <a href="https://docs.google.com/presentation/d/e/2PACX-1vQV5mt8NF118ERPRs8YEvk8CFDvxFKEbr_3sFGi5B0ovaL60Zhc9tYqUmQ3VyIN5ulRhAVrmyJE9nb0/pub?start=false&loop=false&delayms=3000">Workshop</a></li>
     <li> GitKraken - <a href="https://docs.google.com/presentation/d/e/2PACX-1vQkgzjjJfHyz5890gqPjn8_4BIkTh20Dx_zOCHaCrMMR7CWqBBxsi7UvYjI92c2uQgeZMapuzD8hB2v/pub?start=false&loop=false&delayms=3000">Un outil pour les gouverner tous</a></li>
@@ -33,7 +33,7 @@
 <br>
 <p><strong>Pas encore convaincu ?<a href="https://goudmant.github.io/Cv_yvangoudmant/">&nbsp;&nbsp;Mon CV</a></strong></p>
 <br>
-<p>Les languages assimilée</p>
+<p>Les languages assimilées</p>
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0c3a16a22ae058cfe38a06dc9ea16404cf006409262f547c9ccfa3ec8b30f71e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/0c3a16a22ae058cfe38a06dc9ea16404cf006409262f547c9ccfa3ec8b30f71e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2435c2a64789b8a71c701a1a593b4a6e6869789bfb0626e515dc2a6b6dffa6c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333"><img src="https://camo.githubusercontent.com/2435c2a64789b8a71c701a1a593b4a6e6869789bfb0626e515dc2a6b6dffa6c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333" alt="CSS3" data-canonical-src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&amp;logo=css3" style="max-width:100%;"></a>
@@ -46,7 +46,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1ca5c0201b5727e239e78514de8c89ea7c38778cbd1e6a674485f170fff75a7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3330333033303f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73"><img src="https://camo.githubusercontent.com/1ca5c0201b5727e239e78514de8c89ea7c38778cbd1e6a674485f170fff75a7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3330333033303f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73" alt="Nodejs" data-canonical-src="https://img.shields.io/badge/-Nodejs-303030?style=flat-square&amp;logo=Node.js" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/dd40c9952272ad192bd925d2ee379707f8215f358963918bda92cdb0048a602d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61726b646f776e2d626c61636b3f267374796c653d666c61742d737175617265266c6f676f3d6d61726b646f776e"><img src="https://camo.githubusercontent.com/dd40c9952272ad192bd925d2ee379707f8215f358963918bda92cdb0048a602d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61726b646f776e2d626c61636b3f267374796c653d666c61742d737175617265266c6f676f3d6d61726b646f776e" alt="MarkDown" data-canonical-src="https://img.shields.io/badge/markdown-black?&amp;style=flat-square&amp;logo=markdown" style="max-width:100%;"></a></p>
 
-<p>Les outils assimilée</p>
+<p>Les outils assimilés</p>
     
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c91126a5cf35bc6214ebacb4a0761a3520d17936161aa795b7fd681e5e3991e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3345324330303f7374796c653d666c61742d737175617265266c6f676f3d676974"><img src="https://camo.githubusercontent.com/c91126a5cf35bc6214ebacb4a0761a3520d17936161aa795b7fd681e5e3991e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3345324330303f7374796c653d666c61742d737175617265266c6f676f3d676974" alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-3E2C00?style=flat-square&amp;logo=git" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562"><img src="https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&amp;logo=github" style="max-width:100%;"></a>
