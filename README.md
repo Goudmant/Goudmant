@@ -2,9 +2,11 @@
 
 <h2>:older_man: Un peu d'histoire...</h2> 
 
-<p>Après des études en graphisme publicitaire et une formation en infographie je me suis dirigé par passion suite à une opportunité vers la photographie.Ce qui m’a permis de jumeler et maitriser la communication graphique et ses diffèrents aspects! </p> 
+<p>Après des études en graphisme publicitaire et une formation en infographie, je me suis dirigé par passion suite à une opportunité vers la photographie.Ce qui m’a permis de jumeler et maitriser la communication graphique et ses diffèrents aspects! </p> 
 :computer: <strong>Du IT et du SAV </strong> :phone:
-<p>5 ans d'expérience en parallèle en tant que sale advisor pour Apple m'ont permis d'acquérir les soft skills comme le travail d'équipe, la patience, et beaucoup de pédagogie ! En constante évolution l'auto apprentissage ma motivé à parfaire mon parcours !</p>
+<p>5 années d'expérience en tant que sale advisor pour Apple m'ont permis d'acquérir des soft skills comme le travail d'équipe, la patience, et beaucoup de pédagogie !</p>
+<br>
+<p> En constante évolution l'auto apprentissage ma motivé à parfaire mon parcours !</p>
 :rocket: <strong>Le monde de demain !</strong>
 <br>
 :mega: <i>J'ai des compétences !</i>
