@@ -7,12 +7,19 @@
 <p>5 années d'expérience en tant que sale advisor pour Apple m'ont permis d'acquérir des soft skills comme le travail d'équipe, la patience, et beaucoup de pédagogie !</p>
 <br>
 
-:rocket: <strong>Le monde de demain !</strong>
+<p>:rocket: <strong>Le monde de demain !</strong></p>
 <br>
-:mega: <i>J'ai des compétences !</i>
+<p>:mega: <i>J'ai des compétences !</i></p>
 <p>Je sais manipuler des appareils photos plus vieux que moi et développer des photos argentiques... Je peux assurer les photos d'un événement comme un mariage, une soirée ou un shooting studio et les sublimer dans les programmes de la suite Adobe! J'adore créer dessiner imaginer, m'inspirer!</p>
 
-<p>:checkered_flag: Maintenant je souhaiteconcrétiser mes différentes expériences et compétences de manière dynamique au monde numérique!</p>
+<p><strong>@Becode</strong></p>
+<br>
+<p>En constante évolution l'auto apprentissage ma motivé à parfaire mon parcours !</p>
+<p>Suite à la crise sanitaire, les métiers de contact ... il était grand temps d'évoluer, je me suis donc naturellement tournée vers une formation ... qui m’a permis de m'épanouir dans une nouvelle technologie!</p>
+
+<p>:checkered_flag: Maintenant je souhaite concrétiser mes différentes expériences et compétences de manière dynamique au monde numérique!</p>
+
+
 
 <h3>Mon compte Github contient mon parcours d'apprentissage chez Becode afin de devenir Web développeur.</h3>
 
