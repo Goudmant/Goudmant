@@ -12,7 +12,7 @@
 <p>:mega: <i>J'ai des compétences !</i></p>
 <p>Je sais manipuler des appareils photos plus vieux que moi et développer des photos argentiques... Je peux assurer les photos d'un événement comme un mariage, une soirée ou un shooting studio et les sublimer dans les programmes de la suite Adobe! J'adore créer dessiner imaginer, m'inspirer!</p>
 
-<p><strong>Apprendre!</strong></p><a href="https://becode.org/fr/apprendre/inscription/?gclid=Cj0KCQiA-aGCBhCwARIsAHDl5x-XXK-h4nSALCg-PHYW4b4ZrDwVz-45o1esRi6KSQHmrFAZsZRnX34aArFEEALw_wcB">@Becode</a>
+<p><strong>Apprendre! - </strong><a href="https://becode.org/fr/apprendre/inscription/?gclid=Cj0KCQiA-aGCBhCwARIsAHDl5x-XXK-h4nSALCg-PHYW4b4ZrDwVz-45o1esRi6KSQHmrFAZsZRnX34aArFEEALw_wcB">@Becode</a></p>
 
 <p>En constante évolution l'auto apprentissage ma motivé à parfaire mon parcours !</p>
 <p>Suite à la crise sanitaire, les métiers de contact ... il était grand temps d'évoluer, je me suis donc naturellement tournée vers une formation ... qui m’a permis de m'épanouir dans une nouvelle technologie!</p>
