@@ -14,9 +14,9 @@
 
 <p><strong>Apprendre! - </strong><a href="https://becode.org/fr/apprendre/inscription/?gclid=Cj0KCQiA-aGCBhCwARIsAHDl5x-XXK-h4nSALCg-PHYW4b4ZrDwVz-45o1esRi6KSQHmrFAZsZRnX34aArFEEALw_wcB">@Becode</a></p>
 
-<p>En constante évolution l'auto apprentissage ma motivé à parfaire mon parcours !</p>
-<p>Suite à la crise sanitaire, les métiers de contact comme le B2C et B2B étant gelé. Il était grand temps de s'adapter, je me suis donc naturellement tourné vers une formation d'avenir qui m’a permis de m'épanouir dans une nouvelle technologie!</p>
+<p>L'évolution de mon parcourt ma mené m’intéresser au codage ce qui ma permis de découvrir Becode et ca méthode d'apprentissage en autonomie</p>
 
+<p>Cette méthode ma permis d’acquérir des compétences d'apprentissage et de développement tant en autonomie qu'en équipe avec d'autre Web développeurs.</p>
 <p>:checkered_flag: Maintenant je souhaite concrétiser mes différentes expériences et compétences de manière dynamique au monde numérique!</p>
 
 
