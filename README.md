@@ -2,15 +2,15 @@
 
 <h2>:older_man: Un peu d'histoire...</h2> 
 
-<p>Après des études en graphisme publicitaire et une formation en infographie je me suis dirigé par passion suite à une opportunité vers la photographie. ce qui m’a permis de jumeler et maitriser la communication graphique et c'est diffèrent aspect! </p> 
+<p>Après des études en graphisme publicitaire et une formation en infographie je me suis dirigé par passion suite à une opportunité vers la photographie.Ce qui m’a permis de jumeler et maitriser la communication graphique et ses diffèrents aspects! </p> 
 :computer: <strong>Du IT et du SAV </strong> :phone:
-<p>5 ans d'expérience en parallèle en tant que sale advisor pour Apple mon permit d'acquérir les soft skills comme le travail d'équipe, la patience, et beaucoup de pédagogie ! en constante évolution l'auto apprentissage m'ont motivé à parfaire mon parcours !</p>
+<p>5 ans d'expérience en parallèle en tant que sale advisor pour Apple m'ont permis d'acquérir les soft skills comme le travail d'équipe, la patience, et beaucoup de pédagogie ! En constante évolution l'auto apprentissage ma motivé à parfaire mon parcours !</p>
 :rocket: <strong>Le monde de demain !</strong>
 <br>
 :mega: <i>J'ai des compétences !</i>
-<p>je sais manipuler des appareille photos plus vieux que moi et développer des photos argentiques... je peux assurer les photos d'un événement comme un mariage une soirée ou d'un shooting studio et les sublimer dans les programmes de la suite Adobe! j'adore créer dessiner imaginez-m'inspirer!</p>
+<p>Je sais manipuler des appareils photos plus vieux que moi et développer des photos argentiques... Je peux assurer les photos d'un événement comme un mariage, une soirée ou un shooting studio et les sublimer dans les programmes de la suite Adobe! J'adore créer dessiner imaginer, m'inspirer!</p>
 
-<p>:checkered_flag: Maintenant je souhaite me concrétiser apporter mes différentes expériences et compétences de manière dynamique au monde numérique!</p>
+<p>:checkered_flag: Maintenant je souhaiteconcrétiser mes différentes expériences et compétences de manière dynamique au monde numérique!</p>
 
 <h3>Mon compte Github contient mon parcours d'apprentissage chez Becode afin de devenir Web développeur.</h3>
 
@@ -23,17 +23,17 @@
 <ul>
     <li> SVELTE - <a href="https://docs.google.com/presentation/d/e/2PACX-1vQV5mt8NF118ERPRs8YEvk8CFDvxFKEbr_3sFGi5B0ovaL60Zhc9tYqUmQ3VyIN5ulRhAVrmyJE9nb0/pub?start=false&loop=false&delayms=3000">Workshop</a></li>
     <li> GitKraken - <a href="https://docs.google.com/presentation/d/e/2PACX-1vQkgzjjJfHyz5890gqPjn8_4BIkTh20Dx_zOCHaCrMMR7CWqBBxsi7UvYjI92c2uQgeZMapuzD8hB2v/pub?start=false&loop=false&delayms=3000">Un outil pour les gouverner tous</a></li>
-    <li> Le SEO - <a href="https://docs.google.com/presentation/d/e/2PACX-1vQrA4U9q-B5rmuTMcoi95VvY100AbQtXrC7STHU9Bkq5jzveZVTAJ30QNFIwUKQA3zf2MX4YbApt4_z/pub?start=false&loop=false&delayms=3000">Les bonnes pratique du SEO</a></li>
-    <li> Les Hebergeur Web - <a href="https://docs.google.com/presentation/d/e/2PACX-1vR_u_LloZly-AGOH3bBN1aNjHF47UuAdpOcoXjXrm71_8iBRugPs7yKbOBq2sm1Md_GGahMzE4LGCGj/pub?start=false&loop=false&delayms=3000">Les questions à se poser</a></li>
-    <li> L'importance de la couleur dans la création des sites internet - <a href="https://docs.google.com/presentation/d/e/2PACX-1vQmccKgO_diRp9abDiRrzDRA9JWVSPzN3txzlXqC_GBFSVeJKUjwWMV3wkEqUAceV2PRXJUy1hciQrs/pub?start=false&loop=false&delayms=3000">Ques donc que la couleur ?</a></li>
-    <li> Trouver des images gratuite et libre de droits - <a href="https://docs.google.com/presentation/d/e/2PACX-1vT4F3AfFEYOcQjcLInDlXoFszd30e2Bntt6b51Z_ATey2YM16s_KgJ4RcPkmvF8k65juRcwoBpSgqrd/pub?start=false&loop=false&delayms=3000">Pourquoi ? / Les risques</a></li>
+    <li> Le SEO - <a href="https://docs.google.com/presentation/d/e/2PACX-1vQrA4U9q-B5rmuTMcoi95VvY100AbQtXrC7STHU9Bkq5jzveZVTAJ30QNFIwUKQA3zf2MX4YbApt4_z/pub?start=false&loop=false&delayms=3000">Les bonnes pratiques du SEO</a></li>
+    <li> Les Hebergeurs Web - <a href="https://docs.google.com/presentation/d/e/2PACX-1vR_u_LloZly-AGOH3bBN1aNjHF47UuAdpOcoXjXrm71_8iBRugPs7yKbOBq2sm1Md_GGahMzE4LGCGj/pub?start=false&loop=false&delayms=3000">Les questions à se poser</a></li>
+    <li> L'importance de la couleur dans la création des sites internet - <a href="https://docs.google.com/presentation/d/e/2PACX-1vQmccKgO_diRp9abDiRrzDRA9JWVSPzN3txzlXqC_GBFSVeJKUjwWMV3wkEqUAceV2PRXJUy1hciQrs/pub?start=false&loop=false&delayms=3000">Qu'est-ce donc que la couleur ?</a></li>
+    <li> Trouver des images gratuites et libres de droits - <a href="https://docs.google.com/presentation/d/e/2PACX-1vT4F3AfFEYOcQjcLInDlXoFszd30e2Bntt6b51Z_ATey2YM16s_KgJ4RcPkmvF8k65juRcwoBpSgqrd/pub?start=false&loop=false&delayms=3000">Pourquoi ? / Les risques</a></li>
 </ul>
 
 
 <br>
 <p><strong>Pas encore convaincu ?<a href="https://goudmant.github.io/Cv_yvangoudmant/">&nbsp;&nbsp;Mon CV</a></strong></p>
 <br>
-<p>Les languages assimilées</p>
+<p>Les languages assimilés</p>
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0c3a16a22ae058cfe38a06dc9ea16404cf006409262f547c9ccfa3ec8b30f71e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/0c3a16a22ae058cfe38a06dc9ea16404cf006409262f547c9ccfa3ec8b30f71e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2435c2a64789b8a71c701a1a593b4a6e6869789bfb0626e515dc2a6b6dffa6c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333"><img src="https://camo.githubusercontent.com/2435c2a64789b8a71c701a1a593b4a6e6869789bfb0626e515dc2a6b6dffa6c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333" alt="CSS3" data-canonical-src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&amp;logo=css3" style="max-width:100%;"></a>
@@ -62,7 +62,7 @@
 
 <p><strong>En savoir plus</strong></p>
 
-<p>Contatc</p>
+<p>Contact</p>
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a href=" www.linkedin.com/in/yvan-goudmant">&nbsp;&nbsp;Yvan Goudmant</a>
 <br>
