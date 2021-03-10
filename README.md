@@ -14,10 +14,9 @@
 
 <p><strong>Apprendre! - </strong><a href="https://becode.org/fr/apprendre/inscription/?gclid=Cj0KCQiA-aGCBhCwARIsAHDl5x-XXK-h4nSALCg-PHYW4b4ZrDwVz-45o1esRi6KSQHmrFAZsZRnX34aArFEEALw_wcB">@Becode</a></p>
 
-<p>L'évolution de mon parcourt ma mené m’intéresser au codage ce qui ma permis de découvrir Becode et ca méthode d'apprentissage en autonomie</p>
+<p>L'évolution de mon parcours m'a mené à m’intéresser au codage, ce qui ma permis de découvrir Becode et sa méthode d'apprentissage en autonomie</p>
 
-<p>Cette méthode ma permis d’acquérir des compétences d'apprentissage et de développement tant en autonomie qu'en équipe avec d'autre Web développeurs.</p>
-<p>:checkered_flag: Maintenant je souhaite concrétiser mes différentes expériences et compétences de manière dynamique au monde numérique!</p>
+<p>Cette méthode ma permis d’acquérir des compétences d'apprentissage et de développement tant en autonomie qu'en équipe avec d'autres Web développeurs.</p>
 
 
 <hr size="6" width="100%" align="left" color="#ffffff">
