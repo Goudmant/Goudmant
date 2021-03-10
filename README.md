@@ -6,7 +6,7 @@
 :computer: <strong>Du IT et du SAV </strong> :phone:
 <p>5 années d'expérience en tant que sale advisor pour Apple m'ont permis d'acquérir des soft skills comme le travail d'équipe, la patience, et beaucoup de pédagogie !</p>
 <br>
-<hr size="6" width="50%" align="left" color="red">
+<hr size="6" width="100%" align="left">
 <p>:rocket: <strong>Le monde de demain !</strong></p>
 <br>
 <p>:mega: <i>J'ai des compétences !</i></p>
