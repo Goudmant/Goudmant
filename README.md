@@ -10,10 +10,11 @@
 <p>:rocket: <strong>Le monde de demain !</strong></p>
 <br>
 <p>:mega: <i>J'ai des compétences !</i></p>
+<br>
 <p>Je sais manipuler des appareils photos plus vieux que moi et développer des photos argentiques... Je peux assurer les photos d'un événement comme un mariage, une soirée ou un shooting studio et les sublimer dans les programmes de la suite Adobe! J'adore créer dessiner imaginer, m'inspirer!</p>
 
 <p><strong>@Becode</strong></p>
-<br>
+
 <p>En constante évolution l'auto apprentissage ma motivé à parfaire mon parcours !</p>
 <p>Suite à la crise sanitaire, les métiers de contact ... il était grand temps d'évoluer, je me suis donc naturellement tournée vers une formation ... qui m’a permis de m'épanouir dans une nouvelle technologie!</p>
 
