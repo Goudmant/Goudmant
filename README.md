@@ -10,7 +10,6 @@
 <p>:rocket: <strong>Le monde de demain !</strong></p>
 <br>
 <p>:mega: <i>J'ai des compétences !</i></p>
-<br>
 <p>Je sais manipuler des appareils photos plus vieux que moi et développer des photos argentiques... Je peux assurer les photos d'un événement comme un mariage, une soirée ou un shooting studio et les sublimer dans les programmes de la suite Adobe! J'adore créer dessiner imaginer, m'inspirer!</p>
 
 <p><strong>@Becode</strong></p>
