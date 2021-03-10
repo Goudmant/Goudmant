@@ -15,7 +15,7 @@
 <p><strong>Apprendre! - </strong><a href="https://becode.org/fr/apprendre/inscription/?gclid=Cj0KCQiA-aGCBhCwARIsAHDl5x-XXK-h4nSALCg-PHYW4b4ZrDwVz-45o1esRi6KSQHmrFAZsZRnX34aArFEEALw_wcB">@Becode</a></p>
 
 <p>En constante évolution l'auto apprentissage ma motivé à parfaire mon parcours !</p>
-<p>Suite à la crise sanitaire, les métiers de contact ... il était grand temps d'évoluer, je me suis donc naturellement tournée vers une formation ... qui m’a permis de m'épanouir dans une nouvelle technologie!</p>
+<p>Suite à la crise sanitaire, les métiers de contact comme le B2C et B2B étant gelé. Il était grand temps de s'adapter, je me suis donc naturellement tourné vers une formation d'avenir qui m’a permis de m'épanouir dans une nouvelle technologie!</p>
 
 <p>:checkered_flag: Maintenant je souhaite concrétiser mes différentes expériences et compétences de manière dynamique au monde numérique!</p>
 
@@ -54,7 +54,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/28c96c4e07d8df5ce6d1d6bbc892df42c354dae00543925fe04d6224409e0f27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3332333333303f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074"><img src="https://camo.githubusercontent.com/28c96c4e07d8df5ce6d1d6bbc892df42c354dae00543925fe04d6224409e0f27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3332333333303f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&amp;logo=javascript" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1ca5c0201b5727e239e78514de8c89ea7c38778cbd1e6a674485f170fff75a7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3330333033303f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73"><img src="https://camo.githubusercontent.com/1ca5c0201b5727e239e78514de8c89ea7c38778cbd1e6a674485f170fff75a7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3330333033303f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73" alt="Nodejs" data-canonical-src="https://img.shields.io/badge/-Nodejs-303030?style=flat-square&amp;logo=Node.js" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/dd40c9952272ad192bd925d2ee379707f8215f358963918bda92cdb0048a602d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61726b646f776e2d626c61636b3f267374796c653d666c61742d737175617265266c6f676f3d6d61726b646f776e"><img src="https://camo.githubusercontent.com/dd40c9952272ad192bd925d2ee379707f8215f358963918bda92cdb0048a602d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61726b646f776e2d626c61636b3f267374796c653d666c61742d737175617265266c6f676f3d6d61726b646f776e" alt="MarkDown" data-canonical-src="https://img.shields.io/badge/markdown-black?&amp;style=flat-square&amp;logo=markdown" style="max-width:100%;"></a></p>
-<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00"></a>
+
 
 <p>Les outils assimilés</p>
     
