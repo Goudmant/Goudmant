@@ -38,9 +38,7 @@
 </ul>
 
 
-<br>
-<p><strong>Pas encore convaincu ?<a href="https://goudmant.github.io/Cv_yvangoudmant/">&nbsp;&nbsp;Mon CV</a></strong></p>
-<br>
+
 <hr size="6" width="100%" align="left" color="#ffffff">
 <p>Les languages assimilés</p>
 
